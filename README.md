@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**adriana-munirah/adriana-munirah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 # About me 💗
 Assalamualaikum! Hi ! こんにちは ! 안녕하세요 !! 
 My name is Adriana Munirah Binti Adiekhasmadmajar, but you can just call me Adriana or Ad for short. I'm from Johor Bahru, Johor. 
@@ -12,12 +12,20 @@ I also self-studying on Korean language, I knew the Hangeul (the Korean alphabet
 
 
 # My education 📚
-- 
-
-
-
-
-
+## - Universiti Technologi Malaysia (2023 - now)
+   - I'm 1st year student in UTM and currently studying in Bachelor of Computer Science (Network and Security) with Honours
+    
+## - Johor Matriculation College (2022 - 2023)
+   - I'm a treasurer of Frisbee Club.
+   - My classmate and I managed to get 1st place in Frisbee Competition that had been organised by our college.
+   - Joined KMJ Picasso Maths.
+   - Participants in KMJ Java Competition.
+     
+## - SMK Sultan Ismail (2017 - 2021)
+  - An active committee members of Japanese Club for 3 years.
+  - Take part in Green Technology Program at Japan in 2019.
+  - Being a representative of my school for Green Technology Carnival and managed to get 2nd place in Green Cooker Challenge Competition.
+  - A participants in MSSD Chess 2020.
 
 
 
@@ -28,9 +36,15 @@ I also self-studying on Korean language, I knew the Hangeul (the Korean alphabet
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adriana-munirah" alt="adriana-munirah" /></a> </p>
 
+- 📫 How to reach me **adrianamunirah@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/adrianamunirah_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adrianamunirah_" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adriana-munirah&show_icons=true&locale=en&layout=compact" alt="adriana-munirah" /></p>
 
