@@ -35,7 +35,7 @@ I also self-studying on Korean language, I knew the Hangeul (the Korean alphabet
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adriana-munirah" alt="adriana-munirah" /></a> </p>
 
-- 📫 How to reach me **adrianamunirah@gmail.com**
+- 📫 How to reach me **adrianamunirah@graduate.utm.my**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
